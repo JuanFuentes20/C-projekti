@@ -11,6 +11,8 @@
 #include <string.h>
 #include "projekti.h"
 
+//testi Githubia varten.
+
 
 int luomaa(olympia* valtio, int num,char* nimi){
     int k = 0;
