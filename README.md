@@ -1,4 +1,4 @@
-# personal-rep
+# C-projekti
 
 Projekti C-kielen kurssille.
 
