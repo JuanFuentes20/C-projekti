@@ -211,7 +211,7 @@ void freememory(olympia* uusimaa){
 
 
 int main(void) {
-    printf("Hei Juan");
+    printf("Hei Juan. Tämän tekstin teki Juan2");
     ohjeet();
     olympia *uusimaa;
     uusimaa = malloc(sizeof(olympia));
